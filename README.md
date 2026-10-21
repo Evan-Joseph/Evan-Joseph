@@ -1,4 +1,4 @@
-# Hi, I'm Shenzhou Gao (高神舟) 👋
+# Hi, I'm Shenzhou Gao (高神舟)
 
 ```text
 Undergraduate @ Qingdao University (Turing Innovation Class)
@@ -12,7 +12,7 @@ Focus: Multimodal & Embodied AI | Vision-Language Models | Full-stack & Agent En
 
 ---
 
-### 🔬 Research Highlights
+### Research Highlights
 
 I work on **multimodal and embodied AI**, focusing on spatiotemporal reasoning, compact vision-language models, and physical causality understanding in dynamic environments.
 
@@ -23,7 +23,7 @@ I work on **multimodal and embodied AI**, focusing on spatiotemporal reasoning, 
 
 - **Isolating the Supervision Target: A Matched-Control Study of Parser-Gated Plan Generation in Compact Vision-Language Models**  
   ***Shenzhou Gao (First Author)***, *Peijian Zhang*  
-  **PRICAI 2026 (Accepted)** · CCF Recommended · Camera-ready uploaded
+  **PRICAI 2026 (Accepted)** · CCF Recommended · [Code (`leap-code`)](https://github.com/Evan-Joseph/leap-code)
 
 - **From Perception to Planning: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**  
   *Xiaoda Yang, Yuxiang Liu, **Shenzhou Gao**, Can Wang, et al.*  
@@ -31,19 +31,20 @@ I work on **multimodal and embodied AI**, focusing on spatiotemporal reasoning, 
 
 ---
 
-### 🛠️ Featured Open Source Projects
+### Featured Open Source Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**LEAP**](https://github.com/Evan-Joseph/leap-code) | Code release for LEAP: logical embodied action planning for long-horizon robotic tasks via vision-language alignment. | `PyTorch` `VLABench` `VLM` |
-| [**算了 · Suanle**](https://github.com/Evan-Joseph/suanle) | An immersive, modern AI fortune-telling and mental decompression space. | `Next.js 15` `TypeScript` `Tailwind` |
-| [**Agent Workflow Skills**](https://github.com/Evan-Joseph/agent-workflow-skills) | Production-ready, modular Agent Skills for academic figure design, frontend refreshes, and research workflows. | `Agent Skills` `Python` `Markdown` |
-| [**Hospital Takeaway**](https://github.com/Evan-Joseph/hospital-takeaway) | Healthcare-oriented food ordering PWA designed for clinical and hospital scenarios. | `React` `Vite` `TypeScript` `Supabase` |
-| [**Image Flow**](https://github.com/Evan-Joseph/image-flow) | Browser-first client-side image compression and conversion tool supporting WebP, AVIF, and batch processing. | `TypeScript` `WebAssembly` `Canvas` |
+| [**LEAP (`leap-code`)**](https://github.com/Evan-Joseph/leap-code) | Official code & evaluation suite for parser-gated action plan generation in compact VLMs on VLABench (PRICAI 2026). | `PyTorch` `Qwen3-VL` `VLABench` |
+| [**Orion-Lite-ReID**](https://github.com/Evan-Joseph/orion-lite-reid) | Lightweight person re-identification baseline combining MobileNetV4-Conv-Small, Coordinate Attention, BNNeck, and Circle Loss. | `PyTorch` `timm` `ReID` |
+| [**算了 · Suanle**](https://github.com/Evan-Joseph/suanle) | Traditional I Ching / Bazi structured divination and Canvas 2D physics-based interactive workspace. | `Next.js 15` `TypeScript` `Tailwind` |
+| [**汉石寻踪 · Stone Carving**](https://github.com/Evan-Joseph/stone-carving-discovery-app) | Interactive Three.js 3D stone relief excavation and four-layer epigraphic workspace for Wu Family Shrine Han reliefs. | `React 19` `Three.js` `Express` |
+| [**码上购 · Hospital Takeaway**](https://github.com/Evan-Joseph/hospital-takeaway) | Inpatient clinical nutrition ordering and bedside delivery PWA with multi-role workflows. | `React 18` `TypeScript` `Supabase` |
+| [**ImageFlow**](https://github.com/Evan-Joseph/image-flow) | Browser-side batch image compression and format conversion tool powered by Web Workers and OffscreenCanvas. | `TypeScript` `Web Workers` `Canvas` |
 
 ---
 
-### 💻 Tech Stack & Tooling
+### Tech Stack & Tooling
 
 - **AI & Research**: PyTorch, Hugging Face Transformers, VLM SFT & LoRA Fine-tuning, VLABench, Matplotlib & Publication Visualization
 - **Full-stack & Systems**: TypeScript, React, Next.js, FastAPI, Python, PostgreSQL / SQLite, Docker, Cloudflare Workers / Pages

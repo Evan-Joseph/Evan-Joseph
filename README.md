@@ -27,7 +27,7 @@ Focus: AI Product & Agent Engineering | 0-to-1 Idea-to-Launch Execution | Forwar
 ### Industrial AI & Solution Delivery
 
 - **Shandong Port Hazmat Container Yard Intelligent Stacking & Recommendation System** (`2025.11 – Present`): Translated hundreds of pages of IMDG safety regulations and dispatcher heuristics into **21+1 hard safety rules + 14 soft scoring dimensions**. Delivered recommendation service, 1-second simulation dashboard, and nearly 600 regression tests; achieved **90.0%–95.75%** Zone Top-2 hit rate on 400-container production backtests and **90.0% (18/20)** on-site live trial feasibility at Qingdao Port.
-- **KouPilot Multi-Agent Career & Competition Platform**: 0-to-1 product definition, Coze multi-agent workflow orchestration, promotional video, and BP (**2nd Prize & Excellence Award in Coze Agent Competition** + registered **National Software Copyright**).
+- **KouPilot Multi-Agent Career & Competition Platform**: 0-to-1 product definition, Coze multi-agent workflow orchestration, promotional video, and BP (**2nd Prize & Excellence Award in Coze Agent Competition**).
 - **从治得上到治得起 (From Treatable to Affordable)**: Global health transition & chronic disease capacity data narrative analyzing 203 countries from 2000 to 2023 (**19th 4C Big Data Track Provincial 2nd Prize, 1st Author**).
 
 ---
